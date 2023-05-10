@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "779642880794",
+    "project_id": "decentralizedhealthcare",
+    "storage_bucket": "decentralizedhealthcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779642880794:android:b9b42ee17bb778a6da62a3",
+        "android_client_info": {
+          "package_name": "com.example.decentralizedhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779642880794-r8orka4djs1l7vv6m0c5utkv8rv15eq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.decentralizedhealthcare",
+            "certificate_hash": "bd5c95470ad0e1f0bc64de05366e86863822208b"
+          }
+        },
+        {
+          "client_id": "779642880794-6vkbmr7do4vdjei52fg8f5n08nlr23pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_luCZHPgCdpoHvHoeu-tJyzluHRxq4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779642880794-6vkbmr7do4vdjei52fg8f5n08nlr23pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779642880794:android:ad5ed17bb4612ebada62a3",
+        "android_client_info": {
+          "package_name": "com.ivan.webrtcvideochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779642880794-6vkbmr7do4vdjei52fg8f5n08nlr23pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_luCZHPgCdpoHvHoeu-tJyzluHRxq4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779642880794-6vkbmr7do4vdjei52fg8f5n08nlr23pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+html,body{
+    padding:0;
+    margin:0;
+}
+
+.primary-video{
+    position: absolute;
+    width:90%;
+    height:90%;
+    opacity: 1;
+    object-fit: cover;
+}
+
+.secondary-video{
+    position: absolute;
+    max-width: 30%;
+    height:30%;
+    opacity: 1;
+    margin: 16px;
+    border-radius: 16px;
+}
